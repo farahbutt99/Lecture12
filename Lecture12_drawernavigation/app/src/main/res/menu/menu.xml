@@ -13,6 +13,10 @@
             android:id="@+id/nav_laptop"
             android:icon="@drawable/ic_baseline_laptop_24"
             android:title="Laptop"/>
+        <item
+            android:id="@+id/nav_voice"
+            android:icon="@drawable/ic_baseline_keyboard_voice_24"
+            android:title="Voice"/>
         <item android:title="Reading">
             <menu>
                 <group android:checkableBehavior="single">
